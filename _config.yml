@@ -93,3 +93,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+#This may fix blog not showing up
+future: true
