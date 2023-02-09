@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Jan 30   | https://github.com/joannakl/ossd/issues/35    | course website    |   I reported an outdated link    |
-|     |     |     |      |
+|  Feb 8   |   https://www.openstreetmap.org/user/cto234/history  |   OpenStreetMap  |  I fixed the outlines of my childhood house and of teh neighboring houses to line up better with the satellite image   |
 |     |     |     |      |
