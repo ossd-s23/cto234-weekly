@@ -22,6 +22,11 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Jan 30   | https://github.com/joannakl/ossd/issues/35    | course website    |   I reported an outdated link    |
-|  Feb 8   |   https://www.openstreetmap.org/user/cto234/history  |   OpenStreetMap  |  I fixed the outlines of my childhood house and of the neighboring houses to line up better with the satellite image   |
+| Jan 30   | [Link](https://github.com/joannakl/ossd/issues/35)    | course website    |   I reported an outdated link    |
+|  Feb 8   |   [Link](https://www.openstreetmap.org/user/cto234/history)  |   Open StreetMap  |  I fixed the outlines of my childhood house and of the neighboring houses to line up better with the satellite image   |
+| Mar 2    |   [Link](https://www.openstreetmap.org/changeset/133225502)  |   Open StreetMap  |   Added a local business to the map   |
+|  Mar 2   |   [Link](https://www.openstreetmap.org/changeset/133225568)  | Open StreetMap    |   Added missing address   |
+|  Mar 2   |  [Link](https://www.openstreetmap.org/changeset/133225608)   |   Open StreetMap  |  Added a local business to the map    |
+|   Mar 2  |   [Link](https://www.openstreetmap.org/changeset/133225706)  |  Open Streetmap   |    Added a Cinnabon/Carvel to the map  |
+|  Mar 2   |   [Link](https://www.openstreetmap.org/changeset/133225755)  |   Open Streetmap  |  Added a bagel place to the map    |
 |     |     |     |      |
