@@ -32,6 +32,7 @@ Replace the first row with your own contribution.
 |   Mar 23  |  [link](https://en.wikipedia.org/w/index.php?title=Black_Country,_New_Road&diff=prev&oldid=1146266093)   |   Wikipedia  |   Added a source on an article   |
 |  Mar 29 |  [Link](https://en.wikipedia.org/w/index.php?title=Louisiana_Purchase_Exposition&diff=prev&oldid=1147299977&diffmode=source)  |   Wikipedia |  Added embedded link to an article  |
 |  Mar 29 |  [link](https://en.wikipedia.org/w/index.php?title=Tontine_Group&diff=prev&oldid=1147300746&diffmode=source)  |  Wikipedia  |  Added an embedded link to an article  |
+|  April 4 | [link](https://en.wikipedia.org/w/index.php?title=New_York_University_School_of_Professional_Studies&diff=prev&oldid=1148218909&diffmode=source)   |   Wikipedia |  Corrected a list of NYU alumni  |
+|  April 4 |  [link](https://en.wikipedia.org/w/index.php?title=Issam_Hajali&diff=prev&oldid=1148219200&diffmode=source)  |  Wikipedia  |  Added multiple embedded links to a page  |
 |   |    |    |    |
-
 
