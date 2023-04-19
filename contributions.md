@@ -34,5 +34,6 @@ Replace the first row with your own contribution.
 |  Mar 29 |  [link](https://en.wikipedia.org/w/index.php?title=Tontine_Group&diff=prev&oldid=1147300746&diffmode=source)  |  Wikipedia  |  Added an embedded link to an article  |
 |  April 4 | [link](https://en.wikipedia.org/w/index.php?title=New_York_University_School_of_Professional_Studies&diff=prev&oldid=1148218909&diffmode=source)   |   Wikipedia |  Corrected a list of NYU alumni  |
 |  April 4 |  [link](https://en.wikipedia.org/w/index.php?title=Issam_Hajali&diff=prev&oldid=1148219200&diffmode=source)  |  Wikipedia  |  Added multiple embedded links to a page  |
-|   |    |    |    |
+| April 19  |  [link](https://en.wikipedia.org/w/index.php?title=Jai_Paul&diff=prev&oldid=1150733293&diffmode=visual)  | Wikipedia   |  Updated article on musician Jai Paul  |
+|   |   |   |   |
 
