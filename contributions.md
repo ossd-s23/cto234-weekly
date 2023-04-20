@@ -35,5 +35,6 @@ Replace the first row with your own contribution.
 |  April 4 | [link](https://en.wikipedia.org/w/index.php?title=New_York_University_School_of_Professional_Studies&diff=prev&oldid=1148218909&diffmode=source)   |   Wikipedia |  Corrected a list of NYU alumni  |
 |  April 4 |  [link](https://en.wikipedia.org/w/index.php?title=Issam_Hajali&diff=prev&oldid=1148219200&diffmode=source)  |  Wikipedia  |  Added multiple embedded links to a page  |
 | April 19  |  [link](https://en.wikipedia.org/w/index.php?title=Jai_Paul&diff=prev&oldid=1150733293&diffmode=visual)  | Wikipedia   |  Updated article on musician Jai Paul  |
+|  April 20 |  [1](https://en.wikipedia.org/w/index.php?title=Plot_of_the_rue_Saint-Nicaise&diff=prev&oldid=1150933000)[2](https://en.wikipedia.org/w/index.php?title=Plot_of_the_rue_Saint-Nicaise&diff=prev&oldid=1150933391)[3](https://en.wikipedia.org/w/index.php?title=Plot_of_the_rue_Saint-Nicaise&diff=prev&oldid=1150933681) |  Wikipedia | Made three edits to an artcicle about a failed assassination attempt of Napoleon Bonaparte  |
 |   |   |   |   |
 
